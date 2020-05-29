@@ -1,0 +1,72 @@
+.name{
+	font-style:garamond;
+	font-weight:bold;
+}
+
+.place{
+	font-style:garamond;
+	font-weight:bold;
+}
+
+#subjects{
+	font-style:cambria;
+	font-weight:bold;
+}
+ .name{
+	 font-weight:bold;
+ }
+ 
+ table{
+	 border:5px solid black;
+	 border-collapse:collapse;
+	 align:center;
+	 width:50%;
+ }
+ 
+ th,td{
+	 border:2px solid black;
+ }
+ th{
+	 background-color:grey;
+	 padding:5px;
+ }
+ td{
+	 padding:5px;
+ }
+ li{
+	 font-style:adobe arabic;
+	 font-weight:italic;
+ }	 
+
+button{
+    background-color: aqua;
+    height:20px;
+    width:60px;
+}
+button:hover{
+    background-color: antiquewhite;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
